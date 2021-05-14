@@ -2,7 +2,7 @@ package day1;
 
 import java.util.Scanner;
 
-public class fibonachiElements {
+public class FibonachiElements {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input number");
